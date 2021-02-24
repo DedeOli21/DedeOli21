@@ -18,5 +18,5 @@
 - A Computer Science Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development with Laravel and Vue.js.
 - Actually work in ESA with developing software for manage candidates.
-- Project in progress [25%]( E-commerce)
+- Project actual in progress [25%]
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
