@@ -13,9 +13,38 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am David Oliveira
-- I am backend developer PHP, JAVASCRIPT.
-- A Computer Science Undergraduate Student. 
-- Currently working on some projects with Node.js, i studing SOLID and tests.
-- Actually getting experience with TypesCript .
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+---
+
+### About Me
+
+I am David Oliveira, a backend developer proficient in Node.js, Nest.js, and PHP. Experienced in various project architectures and design patterns including SOLID, microservices, and monolith. Skilled in unit testing and integration testing. Proficient with both SQL and NoSQL databases, as well as AWS cloud services. Currently studying AI and CI/CD practices. Familiar with Docker and container management. I am a Computer Science undergraduate student, actively seeking opportunities to learn and contribute in diverse ways.
+
+### Contact Me
+
+- LinkedIn: [David Oliveira](https://www.linkedin.com/in/david-oliveira-029a67140/)
+- GitHub: [DedeOli21](https://github.com/DedeOli21)
+- Telegram: [DavidOli21](https://t.me/DavidOli21)
+- Email: dedepco@gmail.com
+
+### Skills
+
+- Node.js
+- Nest.js
+- PHP
+- SOLID Principles
+- Microservices
+- Monolith
+- Unit Testing
+- Integration Testing
+- SQL
+- NoSQL
+- AWS
+- Docker
+- CI/CD
+
+### Fun Fact
+
+Here's a fun fact about me!
+
+![GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
