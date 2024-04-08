@@ -42,3 +42,6 @@ I am David Oliveira, a backend developer proficient in Node.js, Nest.js, and PHP
 - Docker
 - CI/CD
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DedeOli21&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
