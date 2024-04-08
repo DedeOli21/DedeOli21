@@ -42,9 +42,3 @@ I am David Oliveira, a backend developer proficient in Node.js, Nest.js, and PHP
 - Docker
 - CI/CD
 
-### Fun Fact
-
-Here's a fun fact about me!
-
-![GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
